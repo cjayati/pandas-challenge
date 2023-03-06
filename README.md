@@ -4,3 +4,4 @@ This is the solution for Module Challenge 4(https://courses.bootcampspot.com/cou
 GitLab link: https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-DATA-PT-01-2023-U-LOLC/-/tree/main/02-Homework/04-Data-Analysis-Pandas
 
 Solution Python Notebook: PyCitySchools_starter.ipynb
+Analysis Link: https://github.com/cjayati/pandas-challenge/blob/main/PyCitySchools/analysis/Analysis%20for%20City%20School%20Report.docx
